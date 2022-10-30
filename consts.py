@@ -1,0 +1,11 @@
+
+addon_main_id = "pv_gen_fur"
+ui_panel_id = "VIEW3D_PT_" + addon_main_id + "_panel"
+fur_gen_operator_id = "opr." + addon_main_id + "_operator"
+fur_copy_anim_operator_id = "opr." + addon_main_id + "_copy_anim_operator"
+fur_copy_vertex_col_operator_id = "opr." + addon_main_id + "_copy_vertex_col_operator"
+fur_mask_fixed_operator_id = "opr." + addon_main_id + "_mask_fixed_operator"
+recalc_anim_pivot_operator_id = "opr." + addon_main_id + "_recalc_anim_pivot_operator"
+fur_gen_uv_by_colors_id = "opr." + addon_main_id + "_gen_uv_by_colors_operator"
+recalc_normals_as_ref_object_id = "opr." + addon_main_id + "_recalc_normals_as_ref_object_operator"
+select_twisted_quads_id = "opr." + addon_main_id + "_select_twisted_quads"
